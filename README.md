@@ -37,7 +37,7 @@ This repository documents hands-on projects completed as part of the **Generativ
 | 1 | **Workplace Policy Simulation Using Persona Pattern** | Persona Pattern Analysis | [Jump to project](#-case-study--workplace-policy-simulation-using-persona-pattern-analysis) |
 | 2 | **Office Relocation Simulation – Empathy Mapping & Change Readiness** | Virtual Focus Groups | [Jump to project](#-office-relocation-simulation--empathy-mapping--change-readiness-ai-x-hr) |
 | 3 | **AI-Driven Growth Plan for a Career Pivot** | Professional Dev Planning | [Jump to project](#-case-study--ai-driven-growth-plan-for-a-career-pivot) |
-| 4 | **Hallucination-Free FAQ for Benefits Communication** | Placeholder Technique | _Coming soon_ |
+| 4 | **Smart Job Description Creation for Talent Acquisition** | Transformer + Placeholder | [Jump to project](#-case-study--smart-job-description-creation-for-talent-acquisition) |
 | 5 | **Multi-Audience Messaging for Training Policy Updates** | Transformer Pattern | _Coming soon_ |
 
 ---
@@ -300,4 +300,125 @@ This project uses Generative AI to create a customized professional development 
 - Creation of 2+ real-world HR dashboards  
 - Presentation of 3 insights to stakeholders  
 - Completion of stretch project with mentor review  
-- Internal application or rotation to analytics role  
+- Internal application or rotation to analytics role
+
+## 📁 Case Study – Smart Job Description Creation for Talent Acquisition
+
+This project uses the **Transformer Pattern** and **Placeholder Technique** to turn a basic hiring need into tailored job communications across multiple formats.
+
+**Use Case:** Talent team needs to fill a mid-level TA role. Instead of creating content from scratch, AI helps transform one prompt into different versions for internal, public, and passive candidate communication.
+
+---
+
+### 🧾 Original Hiring Request
+
+> We need a mid-level Talent Acquisition Specialist with 3–5 years of experience.  
+> They should be familiar with full-cycle recruitment, sourcing, interview coordination, and employer branding.  
+> Must be comfortable using ATS systems and LinkedIn Recruiter.  
+> Location: Bengaluru, hybrid setup (2 days in office).
+
+---
+
+### 🧠 Prompt Used
+
+> Take the following job need and transform it into three distinct formats for different audiences.  
+>
+> **Generate:**
+> 1. Internal job posting  
+> 2. LinkedIn-ready post  
+> 3. Direct email pitch for passive candidates  
+>
+> Use placeholders where HR confirmation is needed: `[HR-CONFIRM: ...]`, `[INSERT: application link]`
+
+---
+
+### ✅ 1. Internal Job Posting
+
+📌 Internal Opportunity: Talent Acquisition Specialist (Mid-Level)  
+Location: Bengaluru (Hybrid – 2 days/week in office)  
+Department: People & Culture – Talent Acquisition  
+Reports to: [HR-CONFIRM: Reporting Manager’s Name or Title]  
+Application Deadline: [HR-CONFIRM: Date]  
+
+**About the Role:**  
+We’re looking to bring on a dynamic Talent Acquisition Specialist to join our growing team. If you’re passionate about recruitment and building candidate experiences, we’d love to hear from you.
+
+**Responsibilities:**
+- Manage full-cycle recruitment
+- Source talent via job boards, LinkedIn Recruiter, and referrals
+- Coordinate interviews
+- Support employer branding
+- Track hiring data via ATS
+
+**Ideal Candidate:**
+- 3–5 years of TA experience
+- Proficient in ATS and LinkedIn Recruiter
+- Strong stakeholder skills
+
+**Apply via:** [INSERT: internal portal link]  
+Internal applicants should inform their manager before applying.
+
+---
+
+### 🌟 2. LinkedIn-Ready Job Post
+
+**We're Hiring: Talent Acquisition Specialist (3–5 yrs)**  
+📍 Bengaluru | Hybrid (2 days in-office)
+
+Do you love the hunt for top talent and thrive in a fast-paced hiring environment? Join us as we grow!
+
+**You’ll:**
+✔️ Own full-cycle recruitment  
+✔️ Build exceptional candidate journeys  
+✔️ Partner with hiring managers  
+✔️ Use ATS + LinkedIn Recruiter tools  
+
+**Bring:**  
+➡️ 3–5 years of recruitment experience  
+➡️ Strong sourcing, branding, and tech skills  
+
+🌟 Hiring is strategic here — not just a process.
+
+Apply: [INSERT: application link]  
+#Hiring #TalentAcquisition #RecruiterJobs #BangaloreJobs
+
+---
+
+### 📩 3. Direct Email Pitch to Passive Candidates
+
+**Subject:** Curious about a new TA role in Bengaluru? Let’s chat.
+
+Hi [Candidate Name],
+
+Hope you're doing well! I came across your profile and was impressed by your background in recruitment. We’re hiring a **Talent Acquisition Specialist** (3–5 yrs) in **Bengaluru**.
+
+**About the role:**
+- Hybrid (2 days/week in-office)
+- Hands-on full-cycle recruiting
+- Uses ATS, LinkedIn Recruiter
+- Focus on sourcing + employer branding
+
+If you're open to a chat, I’d love to connect.  
+Apply here: [INSERT: application link]  
+[HR-CONFIRM: Optional – add salary/benefits]
+
+Thanks,  
+[Your Name]  
+[Your Email] | [Your Job Title]
+
+---
+
+### 🧠 HR Techniques Applied
+
+- **Transformer Pattern**: One job spec → three tailored formats  
+- **Placeholder Technique**: Inserted [HR-CONFIRM] and [INSERT:] tags to flag missing info  
+- **Audience targeting**: Adjusted tone and structure based on recipient
+
+---
+
+### 💡 Strategic Impact
+
+This helps HR teams:
+- Save time  
+- Personalize messaging  
+- Improve engagement across channels  
