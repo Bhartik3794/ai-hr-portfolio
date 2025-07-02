@@ -36,7 +36,7 @@ This repository documents hands-on projects completed as part of the **Generativ
 |---|---------------|----------------|------|
 | 1 | **Workplace Policy Simulation Using Persona Pattern** | Persona Pattern Analysis | [Jump to project](#-case-study--workplace-policy-simulation-using-persona-pattern-analysis) |
 | 2 | **Office Relocation Simulation – Empathy Mapping & Change Readiness** | Virtual Focus Groups | [Jump to project](#-office-relocation-simulation--empathy-mapping--change-readiness-ai-x-hr) |
-| 3 | **AI-Driven Growth Plan for a Career Pivot** | Professional Dev Planning | _Coming soon_ |
+| 3 | **AI-Driven Growth Plan for a Career Pivot** | Professional Dev Planning | [Jump to project](#-case-study--ai-driven-growth-plan-for-a-career-pivot) |
 | 4 | **Hallucination-Free FAQ for Benefits Communication** | Placeholder Technique | _Coming soon_ |
 | 5 | **Multi-Audience Messaging for Training Policy Updates** | Transformer Pattern | _Coming soon_ |
 
@@ -198,4 +198,106 @@ Use AI to analyze the likely reactions of a new graduate hire to a proposed hybr
 
 ---
 
-🧠 *Designed by [Bhartik3794](https://github.com/Bhartik3794) | Prompt Simulation & Scenario by ChatGPT*
+## 📁 Case Study – AI-Driven Growth Plan for a Career Pivot
+
+This project uses Generative AI to create a customized professional development plan for an employee transitioning from an HR Generalist to a People Analytics Specialist role.
+
+---
+
+### 👤 Employee Profile
+
+**Name:** Neha Sharma  
+**Current Role:** HR Generalist (4 years)  
+**Strengths:** Engagement, onboarding, policy compliance, communication, stakeholder management  
+**Growth Goal:** Move into a People Analytics Specialist role  
+**Key Gaps:** No experience with analytics tools (SQL, Python, Power BI), limited strategic planning
+
+---
+
+### 📌 AI Prompt Used:
+
+> Let’s build a professional development plan for Neha Sharma. I am providing her background and performance evaluation data. Focus on specific goals for growth using the training catalog below. She would like to move into a People Analytics Specialist role.  
+>
+> **Here is her profile:**  
+> - 4 years of experience as an HR Generalist  
+> - Strong in employee engagement, onboarding, policy compliance  
+> - Good communication and stakeholder management skills  
+> - Some data interpretation experience  
+> - No direct experience with tools like SQL, Python, or Power BI  
+>
+> **Training Catalog:**  
+> - Excel for HR Analysis  
+> - Power BI Fundamentals  
+> - Introduction to Python for HR  
+> - Basic SQL for People Analytics  
+> - Storytelling with HR Data  
+> - Internal job shadowing or mentorship program  
+> - Workforce planning and strategy (internal course)  
+>
+> Please provide:  
+> 1. Skills gap analysis  
+> 2. Recommended training from the catalog  
+> 3. Experiential development ideas  
+> 4. 12-month timeline with milestones  
+
+---
+
+### 📊 Skills Gap Analysis
+
+| Competency Area              | Current Strength | Gap to Address                      |
+|-----------------------------|------------------|-------------------------------------|
+| HR Domain Knowledge         | ✅ Strong        | —                                   |
+| Communication & Stakeholder Mgmt | ✅ Strong        | —                                   |
+| Data Interpretation         | ⚠️ Basic         | Needs more depth and tool usage     |
+| Technical Tools (SQL, Python, Power BI) | ❌ None         | Needs foundational training         |
+| Data Storytelling           | ⚠️ Moderate      | Needs improvement for impact        |
+| Strategic Workforce Planning| ❌ None          | Requires exposure and application   |
+
+---
+
+### 📚 Recommended Training
+
+| Priority   | Training Title                    | Purpose                              |
+|------------|------------------------------------|---------------------------------------|
+| ⭐ High     | Excel for HR Analysis              | Strengthen foundational analysis      |
+| ⭐ High     | Power BI Fundamentals              | Learn dashboards + visualization     |
+| ⭐ High     | Basic SQL for People Analytics     | Learn to query and extract HR data   |
+| ⭐ High     | Introduction to Python for HR      | Automate and explore deeper analysis |
+| ⭐ Medium   | Storytelling with HR Data          | Communicate insights effectively     |
+| ⭐ Medium   | Workforce Planning and Strategy    | Build strategic understanding         |
+| ⭐ Medium   | Job Shadowing / Mentorship         | Real-world exposure & guidance       |
+
+---
+
+### 💼 Experiential Development Ideas
+
+| Activity                  | Description                                           | Goal                              |
+|---------------------------|-------------------------------------------------------|-----------------------------------|
+| Job Shadowing             | Pair with analytics team for 4–6 weeks                | Observe tools, process, cadence   |
+| Mini Analytics Projects   | Support HRBP teams with dashboards or survey work     | Apply Power BI & Excel skills     |
+| Data Storytelling Practice| Present one insight monthly to team                   | Build communication confidence    |
+| Mentorship                | Pair with People Analytics leader                     | Role readiness & feedback loop    |
+| Stretch Assignment        | Lead small project (e.g., attrition or onboarding)    | Visibility + real tool experience |
+
+---
+
+### 🗓️ 12-Month Timeline & Milestones
+
+| Months     | Focus Area            | Milestones                                                                 |
+|------------|------------------------|----------------------------------------------------------------------------|
+| 1–2        | Foundations            | Complete Excel, start Power BI, intro session on People Analytics         |
+| 3–4        | Tools I                | Finish Power BI, start SQL, mentorship pairing                            |
+| 5–6        | Tools II + Shadowing  | Start Python, shadow team, conduct 1st simple SQL/Excel analysis          |
+| 7–8        | Strategic Thinking     | Begin workforce planning course, present data to HRBPs, start assignment  |
+| 9–10       | Data Storytelling      | Finish storytelling course, present to HR leadership                      |
+| 11–12      | Integration            | Deliver capstone, get feedback, apply for analytics/internal roles        |
+
+---
+
+### ✅ Success Metrics
+
+- Completion of all recommended courses  
+- Creation of 2+ real-world HR dashboards  
+- Presentation of 3 insights to stakeholders  
+- Completion of stretch project with mentor review  
+- Internal application or rotation to analytics role  
