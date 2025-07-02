@@ -38,7 +38,7 @@ This repository documents hands-on projects completed as part of the **Generativ
 | 2 | **Office Relocation Simulation – Empathy Mapping & Change Readiness** | Virtual Focus Groups | [Jump to project](#-office-relocation-simulation--empathy-mapping--change-readiness-ai-x-hr) |
 | 3 | **AI-Driven Growth Plan for a Career Pivot** | Professional Dev Planning | [Jump to project](#-case-study--ai-driven-growth-plan-for-a-career-pivot) |
 | 4 | **Smart Job Description Creation for Talent Acquisition** | Transformer + Placeholder | [Jump to project](#-case-study--smart-job-description-creation-for-talent-acquisition) |
-| 5 | **Multi-Audience Messaging for Training Policy Updates** | Transformer Pattern | _Coming soon_ |
+| 5 | **AI-Powered Insights from Pulse Survey Feedback** | Virtual Focus Groups | [Jump to project](#-case-study--ai-powered-insights-from-pulse-survey-feedback) |
 
 ---
 
@@ -422,3 +422,98 @@ This helps HR teams:
 - Save time  
 - Personalize messaging  
 - Improve engagement across channels  
+
+## 📁 Case Study – AI-Powered Insights from Pulse Survey Feedback
+
+This project uses **Virtual Focus Group Simulation** and **Summarization Pattern** to generate actionable insights from a fictional employee engagement pulse survey using AI.
+
+---
+
+### 📊 Pulse Survey Results (Fictional)
+
+| Category                | Positive | Neutral | Negative |
+|-------------------------|----------|---------|----------|
+| Manager Support         | 74%      | 18%     | 8%       |
+| Communication Clarity   | 61%      | 22%     | 17%      |
+| Work-Life Balance       | 53%      | 19%     | 28%      |
+| Recognition & Rewards   | 46%      | 31%     | 23%      |
+| Career Growth           | 40%      | 34%     | 26%      |
+| Belonging & Inclusion   | 58%      | 28%     | 14%      |
+
+---
+
+### 👥 Simulated Employee Personas & Reactions
+
+| Name           | Role                        | Key Concern                                     |
+|----------------|-----------------------------|--------------------------------------------------|
+| Neha Sharma    | HR Generalist               | No clear growth path                            |
+| Arjun Mehta    | Software Engineer           | Poor WLB since hybrid work began                |
+| Riya Sood      | Marketing Executive         | Top-down communication, lack of inclusion       |
+| Sanjay Rao     | Finance Manager             | Recognition only during annual reviews          |
+| Fatima Khan    | Customer Success Associate  | Feeling isolated remotely                       |
+| Vikram Desai   | Product Manager             | No career ladder visibility                     |
+| Anita Thomas   | Office Admin                | Support staff left out of digital initiatives   |
+| Karan Jain     | Data Analyst                | Leadership goals unclear                        |
+
+---
+
+### 💬 Persona Highlights
+
+**Neha (HR):** Wants mentorship for non-tech roles  
+**Arjun (Engg):** Suggests meeting-free hours  
+**Riya (Mktg):** Asks for more two-way town halls  
+**Sanjay (Finance):** Recommends spot awards + peer kudos  
+**Fatima (Support):** Needs a buddy program  
+**Vikram (Product):** Asks about cross-functional mobility  
+**Anita (Admin):** Concerned about fairness in change initiatives  
+**Karan (Analytics):** Wants regular org goal updates  
+
+---
+
+### 🧠 AI-Generated Summary
+
+#### 1️⃣ Key Employee Concerns:
+- Lack of clarity in leadership and communication  
+- Low frequency and variety in recognition  
+- Weak career visibility and upskilling paths  
+- Work-life balance concerns post-hybrid  
+- Isolation, especially among remote and new employees
+
+---
+
+#### 2️⃣ HR Response Plan
+
+| Area                | Suggested Action                                                                 |
+|---------------------|----------------------------------------------------------------------------------|
+| Career Growth        | Launch role frameworks and skill-based mobility paths                          |
+| Recognition          | Introduce peer kudos and quarterly spot awards                                  |
+| Work-Life Balance    | Roll out meeting-free hours and hybrid norms                                    |
+| Communication        | Start leadership AMAs, manager cascade briefings                                |
+| Inclusion            | Relaunch buddy program, spotlight diverse voices in internal comms              |
+
+---
+
+#### 3️⃣ Suggested Follow-Up Communication
+
+**Subject:** _"What You Told Us – And What We're Doing Next"_  
+✔️ Thank employees for honest feedback  
+✔️ Share top 3–4 actions being taken  
+✔️ Provide timelines (e.g., Q3 pilot programs)  
+✔️ Invite open dialogue via Slack, open hours, or surveys
+
+---
+
+### 🛠 Techniques Used
+
+- **Virtual Focus Groups:** AI simulated reactions from 8 distinct personas  
+- **Summarization Pattern:** Compressed sentiment into key themes  
+- **Prompt Engineering:** Guided AI to reflect realistic HR decision-making
+
+---
+
+### 💡 Strategic Value
+
+This approach can help HR:
+- Save time in engagement analysis  
+- Pre-test responses before real focus groups  
+- Drive more tailored action planning  
