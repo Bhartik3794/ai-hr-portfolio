@@ -19,7 +19,6 @@ HR Professional passionate about leveraging Generative AI to revolutionize human
 
 ## Contact Me
 📧 bhartikumari3794@gmail.com
-💼 linkedin.com/in/kumaribharti
-
+💼 https://www.linkedin.com/in/kumaribharti/
 ---
-*Last updated: Wednesday 2 July*
+*Last updated: Wednesday 2 July 2025*
