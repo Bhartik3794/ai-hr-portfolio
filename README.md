@@ -24,6 +24,23 @@ HR Professional passionate about leveraging Generative AI to revolutionize human
 *Last updated: Wednesday 2 July 2025*
 ---
 
+# 🎓 AI for HR Professionals – Project Portfolio
+
+This repository documents hands-on projects completed as part of the **Generative AI for HR Professionals** course on Coursera. Each case study applies AI techniques to real HR scenarios using prompting patterns like persona simulation, placeholder technique, transformer pattern, and more.
+
+---
+
+## 📚 Portfolio Projects
+
+| # | Project Title | Technique Used | Link |
+|---|---------------|----------------|------|
+| 1 | **Workplace Policy Simulation Using Persona Pattern** | Persona Pattern Analysis | [Jump to project](#-case-study--workplace-policy-simulation-using-persona-pattern-analysis) |
+| 2 | **Virtual Focus Group Feedback on HR Announcements** | Virtual Focus Groups | _Coming soon_ |
+| 3 | **AI-Driven Growth Plan for a Career Pivot** | Professional Dev Planning | _Coming soon_ |
+| 4 | **Hallucination-Free FAQ for Benefits Communication** | Placeholder Technique | _Coming soon_ |
+| 5 | **Multi-Audience Messaging for Training Policy Updates** | Transformer Pattern | _Coming soon_ |
+
+---
 ## 📁 Case Study — Workplace Policy Simulation Using Persona Pattern Analysis
 
 This project explores how Generative AI can simulate stakeholder feedback for HR policy testing using the "Persona Pattern" technique.
